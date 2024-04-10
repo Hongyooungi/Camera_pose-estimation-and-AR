@@ -7,3 +7,9 @@ This program is a program that outputs phrases in AR on a chess board.
 3. cv.solvePnP() 함수를 사용하여 체스보드 코너와 같은 실제 촬영한 이미지에서 발견된 2D 포인트와 이에 상응하는 실제 3D 포인트를 사용하여 카메라 자세를 추정한다.
 4. 구의 좌표를 생성하고, 이를 출력한다.
 
+![sphere01](https://github.com/Hongyooungi/Camera_pose-estimation-and-AR/assets/127743990/44bc006c-b6fb-4992-95b7-24930255a9c2)
+
+
+
+
+![sphere02](https://github.com/Hongyooungi/Camera_pose-estimation-and-AR/assets/127743990/b7f433d8-0451-4fe6-93af-7172130e5b0b)
